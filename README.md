@@ -1,4 +1,4 @@
-# CHi tiết hơn ở trong file word
+# CHi tiết hơn ở trong file PhanTichDuLieu_Project/21133113.docx
 
 ## 1. Giới thiệu
 
